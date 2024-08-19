@@ -1,0 +1,12 @@
+streamlit 
+langchain 
+langchain-ollama
+langchain-core
+langchain-community
+wikipedia-api
+wikipedia
+wikibase-rest-api-client
+mediawikiapi
+crewai
+crewai_tools
+duckduckgo-search
