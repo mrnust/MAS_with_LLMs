@@ -13,7 +13,7 @@ This project is a **Code Generation and Management Tool** that leverages a multi
 
 ---
 
-# Project 2: Content Generation and Simplification Tool
+# Project 2: LLM-Powered Multi-Agent Content Generation
 
 ## Overview
 This project is a **Content Generation Tool** that utilizes a multi-agent system powered by the Llama 3 language model (LLM). The tool automates the process of researching, generating, and simplifying content based on a user-provided topic. It features agents specialized in different aspects of content creation, working together to produce high-quality, accessible content.
